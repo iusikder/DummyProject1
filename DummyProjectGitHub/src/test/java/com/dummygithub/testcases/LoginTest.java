@@ -6,5 +6,6 @@ public class LoginTest {
 	@Test
 	public void loginTest(){	
 		System.out.println("This is a Login Test");
+		System.out.println("Now I have to commmit the change");
 	}
 }
